@@ -35,7 +35,7 @@ class _StoreDetailPageState extends State<StoreDetailPage> {
         child: Column(
           children: [
             Text(
-              "\$15.00 away from a \$0.00 delivery fee",
+              "Tiket Masuk \Rp 0,- ",
               style: TextStyle(
                   color: primary, fontSize: 14, fontWeight: FontWeight.w500),
             )
@@ -111,7 +111,7 @@ class _StoreDetailPageState extends State<StoreDetailPage> {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Text(
-                    "Starbucks (Park Row at Beekman St)",
+                    "Sekayu Waterfront (Jl. Dr. Selamet, Serasan Jaya, Sekayu, Kab Musi Banyuasin, Sumsel 30711)",
                     style: TextStyle(fontSize: 21, fontWeight: FontWeight.bold),
                   ),
                   SizedBox(
@@ -122,7 +122,7 @@ class _StoreDetailPageState extends State<StoreDetailPage> {
                       Container(
                         width: size.width - 30,
                         child: Text(
-                          "Cafe - Coffee & Tea - Breakfast and Brunch - Bakery \$",
+                          "Tempat Wisata - Kuliner - Kawasan Terbuka Hijau \$",
                           style: TextStyle(fontSize: 14, height: 1.3),
                         ),
                       )
@@ -236,7 +236,7 @@ class _StoreDetailPageState extends State<StoreDetailPage> {
                               width: 8,
                             ),
                             Text(
-                              "38 Park Row Frnt 4,New York,NY 1003",
+                              "Jl. Dr Selamet Sekayu - MUBA, Sumsel",
                               style: TextStyle(fontSize: 14),
                             )
                           ],
@@ -320,7 +320,7 @@ class _StoreDetailPageState extends State<StoreDetailPage> {
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
                           Text(
-                            "Delivery fee",
+                            "Estimasi Jarak",
                             style: TextStyle(color: black.withOpacity(0.5)),
                           ),
                           SizedBox(

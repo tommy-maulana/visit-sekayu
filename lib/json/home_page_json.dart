@@ -1,4 +1,4 @@
-const List menu = ["Delivery", "Pickup", "Dine-In"];
+const List menu = ["SIMPEG", "SIMDA", "e-Gov"];
 const List peopleFeedback = [
   "Fast & reliable (12)",
   "Well packed (11)",
@@ -19,9 +19,9 @@ const List firstMenu = [
         "https://www.andalastourism.com/wp-content/uploads/2020/04/Sekayu-Waterfront.jpg",
     "is_liked": false,
     "name": "Sekayu Waterfront",
-    "description": "Breakfast and Brunch - American - Sandwich",
+    "description": "Kawasan Terbuka Hijau - Tempat Wisata",
     "time": "20-30 Min",
-    "delivery_fee": "\$1.49 Delivery Fee",
+    "delivery_fee": "\Tiket Masuk Gratis",
     "rate": "4.3",
     "rate_number": "273"
   },
@@ -100,9 +100,9 @@ const List packForYou = [
   {
     "img":
         "https://images.unsplash.com/photo-1559847844-5315695dadae?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1940&q=80",
-    "name": "The Bacon, Egg, and Cheese Bagel",
+    "name": "Pindang Kuyung Sekayu",
     "description":
-        'Fresh eggs, bacon, and creamy cheese stuffed and between a begel...',
+        'Pindang Patin, Gabus, Tulang dengan kuah pindang khas Sekayu',
     "price": "\$ 11.99"
   },
   {
